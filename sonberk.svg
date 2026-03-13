@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" fill="currentColor">
+  <!-- Sun Rays -->
+  <path d="M150 20 L150 5 M130 22 L120 10 M170 22 L180 10 M112 30 L95 20 M188 30 L205 20 M98 42 L80 35 M202 42 L220 35 M88 58 L65 55 M212 58 L235 55 M83 75 L60 75 M217 75 L240 75 M85 92 L65 95 M215 92 L235 95" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Sun Body -->
+  <path d="M95 95 A 55 55 0 0 1 205 95 Z" fill="currentColor" />
+  
+  <!-- Hill / Triangle -->
+  <path d="M100 96 L150 75 L200 96 Z" fill="#9CA3AF" />
+  
+  <!-- Lines and Text -->
+  <rect x="70" y="102" width="160" height="3" fill="currentColor" />
+  <text x="150" y="125" font-family="serif" font-size="20" font-weight="bold" text-anchor="middle" letter-spacing="4" fill="currentColor">SONBERK</text>
+  <rect x="70" y="132" width="160" height="3" fill="currentColor" />
+</svg>
